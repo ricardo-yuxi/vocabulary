@@ -1,0 +1,3 @@
+## Adjectives
+
+* Hierarchical: jerarquico
